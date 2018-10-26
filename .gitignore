@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+=======
+# Google App Engine generated folder
+appengine-generated/
+>>>>>>> 0685d70f0f0da0e6acfbd8e54d0751e23fe3c61d
